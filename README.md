@@ -1,2 +1,2 @@
-# Elektronik-TUD
-Formelsammlung für das Modul Elektronik (TU Darmstadt).
+# Elektronik Formelsammlung 
+Formelsammlung für das Modul Elektronik an der TU Darmstadt.
